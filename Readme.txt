@@ -1,0 +1,1 @@
+Neste projeto, utilizaremos AOP em um projeto simples de biblioteca.A principal motivação é o aprendizado de AOP.
